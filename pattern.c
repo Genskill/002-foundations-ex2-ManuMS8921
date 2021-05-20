@@ -16,7 +16,7 @@ int main(void)
 				printf("\n");
 			}
 			break;
- 
+			
 		case 2: for(int i=1;i<=num_rows;i++)
 			{
 				for(int k=i;k<num_rows;k++)
@@ -30,7 +30,7 @@ int main(void)
 				printf("\n");
 			}
 			break;
- 
+		
 		default: break;
 	}
 }
